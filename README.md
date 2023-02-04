@@ -1,7 +1,7 @@
 
 
 <img
-        align="right"
+        align="center"
         src="https://github.com/rawatshubham1645/Apple-Tv-Clone/blob/main/Images/TV%20App%20Logo.png"
         alt="Coding"
         width="200"
